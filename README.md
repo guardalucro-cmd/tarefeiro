@@ -6,7 +6,7 @@ App de tarefas e hábitos que funciona dentro do Claude e guarda tudo numa plani
 
 1. No app Claude Desktop, conecte o **Google Sheets** (obrigatório) e o **Google Calendar** (opcional, para os alertas no celular) em Artefatos → Painel → Chat.
 2. Abra uma conversa nova no **Cowork**.
-3. Copie o bloco de texto de [prompt-tarefeiro.md](prompt-tarefeiro.md), cole na conversa e envie.
+3. Copie o bloco de texto de [prompt-painel.md](prompt-painel.md), cole no Chat do painel de Artefatos e envie. Para instalar pelo Cowork, use [prompt-tarefeiro.md](prompt-tarefeiro.md).
 
 O Claude cria a planilha, baixa o app deste repositório, publica no seu painel de Artefatos e liga os lembretes da manhã e da noite.
 
