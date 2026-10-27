@@ -29,7 +29,6 @@ Crie exatamente estas abas, com estes cabeçalhos na linha 1 (linha 1 congelada,
    google_tarefas_ligado | nao | Reservado para a ligação com o Google Tarefas
    google_ultima_sync | (vazio) | Reservado para a ligação com o Google Tarefas
    agenda_ligada | nao | Alertas no celular pelo Google Agenda (sim ou nao)
-   agenda_ligada | nao | Reservado para o Google Agenda
    lista_padrao | L001 | Lista usada quando a tarefa não diz qual
 6. Sincronizacao: data_hora | direcao | quantidade | status | detalhe
 7. Resumo: sem cabeçalho. Na célula A1 e na célula C1, estas fórmulas (planilha em pt_BR: separador ";" e "\" entre colunas da matriz). Use colunas inteiras como abaixo, nunca intervalos que começam na linha 2:
